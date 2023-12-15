@@ -1,0 +1,6 @@
+Create a program:
+    - Generate 100 random numbers between 1 - 6
+    - if the random number is 3 or less, add number to smallNumberTotal and 1 to smallKnt
+    - if the random number is 4 or more, add number to largeNumberTotal and 1 to largeKnt
+    - print the random numbers, 10 to a line.
+    - at end, print the two totals and 2 counter

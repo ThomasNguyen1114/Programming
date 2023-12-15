@@ -1,0 +1,8 @@
+Create a program that:
+    - input a totalSales - sales person for week
+    - determine their commission:
+    - over 10000 - .07
+    - above 5000 and less than 10000 - .05
+    - above 1000 and less than 5000 - .03
+    - below 1000 - .02
+    - print commission to 2 decimals

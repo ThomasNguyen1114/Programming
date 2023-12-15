@@ -1,0 +1,6 @@
+gradeOne = int(input("Enter Grade For First Class (ENTER AS NUMBER!): "))
+creditHourOne = int(input("Enter Credit Hour(s) For Class One: "))
+gradeTwo = int(input("Enter Grade For Second Class (ENTER AS NUMBER!): "))
+creditHourTwo = int(input("Enter Credit Hour(s) For Class Two: "))
+gpa = ((gradeOne * creditHourOne) + (gradeTwo * creditHourTwo))/(creditHourTwo + creditHourOne)
+print("GPA: ", gpa)

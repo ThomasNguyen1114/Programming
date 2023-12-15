@@ -1,0 +1,5 @@
+Create a program that:
+    - accepts an int number
+    - take that number and determine if it is odd or not  (use the % operator)
+    - if it is odd - display "it is odd" 
+    - if not - display "it is even"

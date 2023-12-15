@@ -1,0 +1,62 @@
+h1 {
+    color: CC3300;
+    text-align: center;
+}
+
+h2 {
+    color: 333333;
+}
+
+
+h4 i {
+    color: gold;
+}
+
+
+a { 
+   text-decoration: none;
+   color: red;
+   font-weight: bold;
+}
+
+body {
+      background-color: #999999;
+      font-family: Verdana, Arial, sans-serif;
+      margin: 30px;
+}
+
+ul {
+    line-height: 1.5;
+    vertically-align: centered;
+    list-style: url(bullet.gif);
+}
+
+a:hover {
+          color: white;
+          background-color: red;
+}
+
+.studytip::first-line {
+                       font-size: 18pt;
+                       color: #660000;
+                       text-decoration: underline;
+                       font-variant: small-caps;
+}
+
+.notice {
+         position: relative;
+         left: 20px;
+         top: 10px; 
+         font-size: 10pt;
+         color: brown;
+         background-color: ivory;
+         border: 3px inset # CC3300;
+         width: 230px
+}
+
+.notice p {
+           margin: 15px;
+}
+
+
+         
